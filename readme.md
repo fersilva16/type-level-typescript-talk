@@ -1,8 +1,8 @@
-![Screenshot](https://github.com/fersilva16/eslint-rules-talk/blob/main/.github/screenshot.png)
+![Screenshot](https://github.com/fersilva16/type-level-typescript-talk/blob/main/.github/screenshot.png)
 
-# Modifying code incrementally with ESLint rules
+# Introduction to Type-Level programming in TypeScript
 
-Slides: https://fersilva16.github.io/eslint-rules-talk
+Slides: <https://fersilva16.github.io/type-level-typescript-talk>
 
 # How to Run
 
